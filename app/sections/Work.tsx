@@ -8,10 +8,11 @@ const Work = () => {
             id="work"
         >
             <h2 className="mb-10 hidden text-[36px] text-[#e4ded7] md:mb-16 md:text-[42px] lg:mb-16 lg:text-[72px]">
-        Featured Work
+        Featured Work (created along with other co-authors):
             </h2>
-
+            <h3>Projects:</h3>
             <ProjectGrid />
+            <h3><a href="https://scholar.google.com/citations?hl=en&user=1vZmkFIAAAAJ&view_op=list_works">Top cited papers</a></h3>
         </section>
     );
 };
