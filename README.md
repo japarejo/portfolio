@@ -16,13 +16,6 @@
 
 <!-- ABOUT THE TEMPLATE -->
 
-<div align="center">
-
- <img width="1425" alt="Portfolio-template" src="https://github.com/user-attachments/assets/265fa13e-98ed-4c99-bd7f-ce7efe19627f">
-
- 
-</div>
-
 # Portfolio 
 
 Minimalist developer portfolio using Next.js 14, React, TailwindCSS, Framer motion
