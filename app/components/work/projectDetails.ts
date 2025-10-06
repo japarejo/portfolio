@@ -39,7 +39,7 @@ export const projects = [
         id: 1,
         name: "Leia.ovh",
         description:
-            "Plataforma experimental que combina Node.js con la API de OpenAI para generar respuestas inteligentes y personalizadas en tiempo real. Actúa como un laboratorio de integración entre modelos lingüísticos y aplicaciones web.",
+            "Learning Enabling Intelligent Assistants - Learn with AI not from it.",
         technologies: [SiNodedotjs, SiJavascript, SiOpenai],
         techNames: ["Node.js", "JavaScript", "OpenAI API"],
         techLinks: [
@@ -48,15 +48,15 @@ export const projects = [
             "https://platform.openai.com/docs",
         ],
         github: null,
-        demo: "https://leia.ovh/",
-        image: "/projects/leia-ovh.png",
+        demo: "https://www.leia.ovh/",
+        image: null,
         available: true,
     },
     {
         id: 2,
         name: "pricing4SaaS",
         description:
-            "Proyecto académico centrado en estrategias de fijación de precios para productos SaaS, desarrollado en Java y Node.js. Publicado en un capítulo de libro dentro de la serie Lecture Notes in Computer Science (Springer).",
+            "Pricing plans support library for Sowftware as a Services applications. It  supports pricing-aware feature togglíng and pricing plan definition.",
         technologies: [SiJava, SiNodedotjs],
         techNames: ["Java", "Node.js"],
         techLinks: [
@@ -65,7 +65,7 @@ export const projects = [
         ],
         github: null,
         demo: "https://dl.acm.org/doi/10.1007/978-3-031-62362-2_30",
-        image: "/projects/pricing4saas.png",
+        image: null,
         available: true,
     },
     {
@@ -84,7 +84,7 @@ export const projects = [
         ],
         github: null,
         demo: "https://sphere-docs.vercel.app/",
-        image: "/projects/sphere-docs.png",
+        image: null,
         available: true,
     },
     {
@@ -104,7 +104,7 @@ export const projects = [
         ],
         github: "https://github.com/Alex-GF/space-tutorial",
         demo: "https://github.com/Alex-GF/space-tutorial",
-        image: "/projects/space.png",
+        image: null,
         available: true,
     },
 ];
