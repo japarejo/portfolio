@@ -69,7 +69,7 @@ const Contact = () => {
                             aria-label="View research Profile in Google Scholar"
                         >
                             <AnimatedTitle
-                                text={"Google Shcholar Profile "}
+                                text={"Google Scholar Profile "}
                                 className={
                                     "text-[16px] font-bold text-[#e4ded7] sm:text-[20px] md:text-[16px] lg:text-[28px]"
                                 }
