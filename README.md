@@ -4,18 +4,13 @@
 
  <img src="https://github.com/user-attachments/assets/02d84173-c513-4180-936f-35c24ec38209" alt="Logo" width="60" height="60">
   </a>
-  <h1 align="center">Eldora UI</h1>
+  <h1 align="center">JAParejo's portfolio</h1>
   <p align="center">
-   open-source animated components built with React, Typescript, Tailwind CSS, and Framer Motion.
-100% open-source, and customizable.
+   Web page or the portfolio of José Antonio Parejo Maestre. This page is based on the portfolio by karthikmudunuri.
   </p>
   <p>
     
-   <a href="https://www.eldoraui.site/">Visit site</a>
-    ·
-    <a href="https://github.com/karthikmudunuri/eldoraui/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/karthikmudunuri/eldoraui/issues">Request Feature</a>
+   <a href="https://japarejo.es/">Visit site</a>    
   </p>
 </div>
 
