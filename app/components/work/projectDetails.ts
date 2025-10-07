@@ -11,8 +11,7 @@ import {
     SiJavascript,
     SiOpenai,
     SiJava,
-    SiTypescript,
-    SiNextdotjs,    
+    SiTypescript,    
     SiTailwindcss,
     SiFramer,    
     SiVercel
