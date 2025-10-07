@@ -44,7 +44,7 @@ export const projects = [
             "https://platform.openai.com/docs",
         ],
         github: "",
-        demo: "https://www.leia.ovh/",
+        demo: "http://www.leia.ovh/",
         image: "",
         available: true,
     },
