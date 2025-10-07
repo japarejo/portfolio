@@ -1,7 +1,8 @@
 import {
     SiCplusplus,
     SiFramer,
-    SiGithub, SiNeovim,
+    SiGithub, 
+    SiNeovim,
     SiNextdotjs,
     SiReact,
     SiRust,
@@ -15,8 +16,7 @@ import {
     SiNextdotjs,
     SiReact,
     SiTailwindcss,
-    SiFramer,
-    SiGithub,
+    SiFramer,    
     SiVercel
 } from "react-icons/si";
 import {IconType} from "react-icons";
