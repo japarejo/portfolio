@@ -12,7 +12,7 @@ const Work = () => {
             </h2>
             <h3>Projects:</h3>
             <ProjectGrid />
-            <h3><a href="https://scholar.google.com/citations?hl=en&user=1vZmkFIAAAAJ&view_op=list_works">Top cited papers</a></h3>
+            <h2><a href="https://scholar.google.com/citations?hl=en&user=1vZmkFIAAAAJ&view_op=list_works">Top cited papers</a></h2>
         </section>
     );
 };
