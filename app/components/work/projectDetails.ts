@@ -9,8 +9,7 @@ import {
     SiZig,
     SiNodedotjs,
     SiJavascript,
-    SiOpenai,
-    SiJava,
+    SiOpenai,    
     SiTypescript,    
     SiTailwindcss,
     SiFramer,    
@@ -54,8 +53,8 @@ export const projects = [
         name: "pricing4SaaS",
         description:
             "Pricing plans support library for Sowftware as a Services applications. It  supports pricing-aware feature togglíng and pricing plan definition.",
-        technologies: [SiJava, SiNodedotjs],
-        techNames: ["Java", "Node.js"],
+        technologies: [SiNodedotjs,SiNodedotjs],
+        techNames: ["Node.js","Java"],
         techLinks: [
             "https://www.oracle.com/java/",
             "https://nodejs.org/",
