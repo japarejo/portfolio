@@ -56,8 +56,8 @@ export const projects = [
         technologies: [SiNodedotjs,SiNodedotjs],
         techNames: ["Node.js","Java"],
         techLinks: [
-            "https://www.oracle.com/java/",
             "https://nodejs.org/",
+            "https://www.oracle.com/java/",
         ],
         github: "",
         demo: "https://dl.acm.org/doi/10.1007/978-3-031-62362-2_30",
