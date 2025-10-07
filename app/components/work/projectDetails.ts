@@ -67,9 +67,9 @@ export const projects = [
     },
     {
         id: 3,
-        name: "Sphere Docs",
+        name: "Sphere",
         description:
-            "Plataform of pricind data collections management (with pricin plan analysis and integrated editor)",
+            "Plataform of pricind data collections management (with pricing plan analysis and integrated editor)",
         technologies: [SiTypescript, SiReact, SiNextdotjs, SiTailwindcss, SiFramer],
         techNames: ["TypeScript", "React", "Next.js", "Tailwind CSS", "Framer Motion"],
         techLinks: [
@@ -80,7 +80,7 @@ export const projects = [
             "https://www.framer.com/motion/",
         ],
         github: "",
-        demo: "https://sphere-docs.vercel.app/",
+        demo: "https://sphere.score.us.es/",
         image: "",
         available: true,
     },
