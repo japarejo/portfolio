@@ -1,6 +1,5 @@
 import {
-    SiCplusplus,
-    SiFramer,
+    SiCplusplus,    
     SiGithub, 
     SiNeovim,
     SiNextdotjs,
